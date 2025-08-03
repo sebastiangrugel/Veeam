@@ -11,7 +11,8 @@
   #                                                            #
   ##############################################################
 
-
+# Optionaly if connection was not initialized before. 
+# Connect-VBRServer -server VBR-SERVER -User VBR-ADMIN -password VBR-PASSWORD
 
  # Input data
  $csvfile = "C:\Users\Administrator\Desktop\toremove.csv"
